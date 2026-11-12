@@ -1,0 +1,6 @@
+customer_code,customer_name,address,city,contact_person,contact_number,email,payment_terms,credit_limit
+C-0001,Sample Cafe Inc.,12 Example St.,Quezon City,Ana Reyes,0917 000 0001,orders@samplecafe.example,Net 30,50000
+C-0002,Demo Print Shop,45 Sample Ave.,Makati City,Ben Cruz,0917 000 0002,ben@demoprint.example,Net 15,25000
+C-0003,Placeholder Dental Clinic,8 Test Rd.,Valenzuela City,Carla Santos,0917 000 0003,admin@placeholderdental.example,Cash on delivery,10000
+C-0004,Fictional Hardware Supply,101 Mock Blvd.,Pasig City,Dan Lim,0917 000 0004,dan@fictionalhardware.example,Net 30,80000
+C-0005,Example Learning Center,22 Practice Lane,Caloocan City,Eva Dizon,0917 000 0005,eva@examplelearning.example,Net 15,30000
